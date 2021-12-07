@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ronnicolasp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ronnicolasp 
+- 👀 I’m interested in melatih ketrampilan ini
+- 🌱 I’m currently learning git for remote
+- 💞️ I’m looking to collaborate on toptal associate
+- 📫 How to reach me by linkedin
 
 <!---
 ronnicolasp/ronnicolasp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
